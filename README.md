@@ -38,11 +38,11 @@
 * [Advent of Code 2020(ENG)](https://adventofcode.com/)   
 * [코드업](https://codeup.kr/problemsetsol.php?psid=23)
 * [구름레벨](https://level.goorm.io/)
-* [leetcode]https://leetcode.com/problemset/top-100-liked-questions/
-* [코딜리티] https://app.codility.com/programmers/
-* [해커링크]https://www.hackerrank.com/
-* [백준온라인저지] https://www.acmicpc.net/workbook/view/1152
-* [프로그래머스] https://www.welcomekakao.com/learn/challenges?tab=all_challenges
+* [leetcode](https://leetcode.com/problemset/top-100-liked-questions/)
+* [코딜리티](https://app.codility.com/programmers/)
+* [해커링크](https://www.hackerrank.com/)
+* [백준온라인저지](https://www.acmicpc.net/workbook/view/1152)
+* [프로그래머스](https://www.welcomekakao.com/learn/challenges?tab=all_challenges)
 
 ## reading
 * [일 잘하는 개발자는 왜 비즈니스까지 신경쓸까?](https://evan-moon.github.io/2020/10/24/buisiness-with-programming/)
