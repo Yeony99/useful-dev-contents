@@ -25,6 +25,9 @@
   - JS algorithms and Data Structures
   - Front End Development Libraries (Bootstrap, jQuery, SASS, React, Redux etc)
   - Data Visulalzation 등
+* [CSS-TRICKS](https://css-tricks.com/)
+  - CSS 활용 예시가 모여있는 사이트
+  - CSS에 관련한 아티클을 읽을 수 있고, CSS속성을 백과사전처럼 찾아볼 수 있다.
 
 
 ## Back-End   
